@@ -1,4 +1,4 @@
-All the downloaded datasets should be stored here:
+All the downloaded and created datasets should be stored here:
 
 1. raw_edx.csv
 2. raw_validation.csv
