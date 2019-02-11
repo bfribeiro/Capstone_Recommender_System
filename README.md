@@ -20,4 +20,4 @@ Note that, you'll need to create 3 folders in your project folder. Since all the
 <b>2. img</b>: If you want to save the plots crated, I suggest saving them into this folder; <br>
 <b>3. support_data</b>: The tables created to make easier to create the pdf report, or html if you like, was stored here.
 
-The folders above are just suggestions so you can choose whatever name you like. Just remember to change it in the scripts to make it work fine.
+The folders above are just suggestions so you can choose whatever name you like. Just remember to change it in the scripts to make it work fine. However, the scripts in this repository use data and support_data folders as references.
